@@ -1,2 +1,5 @@
 # hello-world
-Just a short description.
+
+Hello whomever is reading!
+
+I'm just getting the hang of the Github experience!
